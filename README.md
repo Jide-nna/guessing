@@ -1,6 +1,6 @@
 # Preveview
 
-![alt](img/Screen%20Shot%202021-09-25%20at%208.39.39%20PM.png)
+![alt](img/Screenshot(156).png)
 
 ## Built With
 
