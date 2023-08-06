@@ -1,6 +1,6 @@
 # Preveview
 
-![alt](img/Screenshot(156).png)
+![alt](img/Screenshot (156).png)
 
 ## Built With
 
