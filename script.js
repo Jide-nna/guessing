@@ -23,6 +23,12 @@ function checkGuess() {
         lowOrHi.textContent = ""
         setGameOver()
     }
+    else if (playerGuess == "") {
+        lastResult.textContent = "Your guess is empty"
+        lastResult.style.color = "Red"
+        guesses.textContent = ""
+        lowOrHi.textContent = ""
+    }
     else if(playerGuess > 100) {
         lastResult.textContent = "Your number is more than 100"
         lastResult.style.color = "Red"
