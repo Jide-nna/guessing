@@ -1,4 +1,4 @@
-# Preveview
+# Preview
 
 ![alt](img/Screenshot (156).png)
 
